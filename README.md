@@ -191,7 +191,7 @@ Secure Data Validation
 
 📦 Installation
 # Clone the repository
-git clone https://github.com/yourusername/beneficiary-management-app.git
+git clone https://github.com/Muhammad-Arsalan-Khan/Benificiary.git
 
 # Install backend dependencies
 cd backend
