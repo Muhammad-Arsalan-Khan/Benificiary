@@ -1,4 +1,4 @@
-📌 Beneficiary Management App
+📌 # **Beneficiary Management App**
 
 A CNIC-based Beneficiary Management System designed to help welfare organizations efficiently register, track, and manage beneficiaries across multiple departments.
 
